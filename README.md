@@ -1,2 +1,1 @@
 # epoch-sample-app
-test
